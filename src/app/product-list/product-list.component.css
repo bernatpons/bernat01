@@ -5,7 +5,7 @@ table {
 table, th, td {
   border: black 1px solid;
 }
-tr:nth-child(even) {background-color: #f2f2f2;}
+tr:nth-child(even) {background-color: #d9d9d9;}
 /*
 Copyright Google LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
